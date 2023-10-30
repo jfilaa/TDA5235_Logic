@@ -1,0 +1,13 @@
+{
+  "name": "TDA5235",
+  "apiVersion": "1.0.0",
+  "author": "JFíla",
+  "version": "1.0.0",
+  "description": "",
+  "extensions": {
+    "TDA5235": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "TDA5235.TDA5235"
+    }
+  }
+}
